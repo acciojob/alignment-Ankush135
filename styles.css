@@ -1,1 +1,45 @@
 /*  your css code here. If applicable */
+table, th, td {
+	border: 1px solid black;
+}
+h5{
+	text-align:center;
+	margin-bottom: 0px;
+}
+#table-1, #t11, #t12, #t13{
+	border: 1px solid black;
+	border-collapse
+}
+table{
+	width: 100%
+}
+.center{
+	text-align: center;
+}
+.right{
+	text-align: right;
+}
+#table-2{
+	margin: 40px auto;
+	border: 1px solid black;
+	width: 100%
+}
+.tr1 td{
+	border: 1px solid black
+}
+#table-2 {
+	margin: 20px auto;
+}
+td {
+  height: 20px;
+}
+.green{
+	background-color: green;
+}
+.blue{
+	background-color: blue;
+}
+#t-image{
+	width: 10px;
+	height: 80px
+}
